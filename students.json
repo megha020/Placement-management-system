@@ -1,0 +1,182 @@
+
+{
+  "students": [
+    {
+      "name": "Rahul Patil",
+      "email": "rahul.patil@example.com",
+      "password": "Rahul@123",
+      "phone": "9876543210",
+      "dob": "2003-05-15",
+      "gender": "Male",
+      "address": "Pune, Maharashtra",
+      "ssc_percentage": 85.5,
+      "hsc_percentage": 82.0,
+      "graduation_percentage": 78.5,
+      "graduation_cgpa": 8.2,
+      "msc_cgpa": 0.0,
+      "backlogs": 0,
+      "skills": [
+        {
+          "skill_name": "Python",
+          "skill_level": "Advanced"
+        },
+        {
+          "skill_name": "Flask",
+          "skill_level": "Intermediate"
+        },
+        {
+          "skill_name": "SQL",
+          "skill_level": "Intermediate"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Student Management System",
+          "description": "A web application to manage student records",
+          "technologies": "Python, Flask, SQLite",
+          "project_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "password": "Priya@123",
+      "phone": "9876543211",
+      "dob": "2003-08-21",
+      "gender": "Female",
+      "address": "Mumbai, Maharashtra",
+      "ssc_percentage": 92.0,
+      "hsc_percentage": 90.5,
+      "graduation_percentage": 88.0,
+      "graduation_cgpa": 9.1,
+      "msc_cgpa": 0.0,
+      "backlogs": 0,
+      "skills": [
+        {
+          "skill_name": "Java",
+          "skill_level": "Advanced"
+        },
+        {
+          "skill_name": "HTML",
+          "skill_level": "Intermediate"
+        },
+        {
+          "skill_name": "CSS",
+          "skill_level": "Intermediate"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Online Book Store",
+          "description": "A website for browsing and managing books",
+          "technologies": "HTML, CSS, JavaScript, SQL",
+          "project_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Amit Jadhav",
+      "email": "amit.jadhav@example.com",
+      "password": "Amit@123",
+      "phone": "9876543212",
+      "dob": "2002-11-10",
+      "gender": "Male",
+      "address": "Nashik, Maharashtra",
+      "ssc_percentage": 75.0,
+      "hsc_percentage": 72.5,
+      "graduation_percentage": 70.0,
+      "graduation_cgpa": 7.5,
+      "msc_cgpa": 0.0,
+      "backlogs": 1,
+      "skills": [
+        {
+          "skill_name": "C++",
+          "skill_level": "Intermediate"
+        },
+        {
+          "skill_name": "Python",
+          "skill_level": "Beginner"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Library Management System",
+          "description": "An application for managing library books",
+          "technologies": "Python, SQLite",
+          "project_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Sneha Kulkarni",
+      "email": "sneha.kulkarni@example.com",
+      "password": "Sneha@123",
+      "phone": "9876543213",
+      "dob": "2003-02-18",
+      "gender": "Female",
+      "address": "Kolhapur, Maharashtra",
+      "ssc_percentage": 90.0,
+      "hsc_percentage": 88.0,
+      "graduation_percentage": 85.0,
+      "graduation_cgpa": 8.7,
+      "msc_cgpa": 0.0,
+      "backlogs": 0,
+      "skills": [
+        {
+          "skill_name": "JavaScript",
+          "skill_level": "Intermediate"
+        },
+        {
+          "skill_name": "React",
+          "skill_level": "Beginner"
+        },
+        {
+          "skill_name": "SQL",
+          "skill_level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Placement Portal",
+          "description": "A portal for viewing placement opportunities",
+          "technologies": "Python, Flask, SQLite, HTML, CSS",
+          "project_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Akash More",
+      "email": "akash.more@example.com",
+      "password": "Akash@123",
+      "phone": "9876543214",
+      "dob": "2002-07-25",
+      "gender": "Male",
+      "address": "Chhatrapati Sambhajinagar, Maharashtra",
+      "ssc_percentage": 68.0,
+      "hsc_percentage": 65.0,
+      "graduation_percentage": 64.0,
+      "graduation_cgpa": 6.8,
+      "msc_cgpa": 0.0,
+      "backlogs": 2,
+      "skills": [
+        {
+          "skill_name": "C",
+          "skill_level": "Intermediate"
+        },
+        {
+          "skill_name": "HTML",
+          "skill_level": "Beginner"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio",
+          "description": "A basic portfolio website",
+          "technologies": "HTML, CSS, JavaScript",
+          "project_link": ""
+        }
+      ]
+    }
+  ]
+}
